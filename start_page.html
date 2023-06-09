@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Website</title>
+	<link rel="stylesheet" href="static\styles\style.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="static/image/favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="static/image/favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="static/image/favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="static/image/favicon_io/site.webmanifest">
+</head>
+<body>
+<!-- Your website content here -->
+
+<img src="https://i.gifer.com/QNBK.gif">
+
+<div class="hello">WELCOME TO THE SITE !</div>
+
+
+<div class="creator">Development by Mikhail Skibitskiy. Support: mskib@mail.ru</div>
+
+
+<div class="what">What do you need ?</div>
+
+
+<a  href="send_page.html" style="display: inline-block; margin: 10px;">
+	<button class="bsend">
+    SEND
+	</button>
+</a>
+
+<a href="get_page.html" style="display: inline-block; margin: 10px;">
+	<button class="bget">
+    GET
+	</button>
+</a>
+
+<div>
+<button class="speedtest" style=""
+		onclick="multiply()">Run speedtest</button>
+
+<div style="position: absolute; bottom: 16%; left: 45%;" id="result">Result </div>
+<script>
+  function multiply() {
+    var result = 2 * 2;
+    document.getElementById("result").innerHTML = "Result: " + result;
+  }
+</script>
+</div>
+
+</body>
+</html>

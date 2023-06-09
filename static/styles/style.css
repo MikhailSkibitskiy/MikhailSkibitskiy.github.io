@@ -1,0 +1,120 @@
+
+
+img {
+	position: absolute;
+	bottom: 26%;
+	left: 33.1%;
+	width: 500px;
+	object-fit: cover;
+	display: flex;
+}
+
+.hello {
+	position: absolute;
+	bottom: 97%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size:22px;
+}
+
+.creator {
+	position: fixed;
+	bottom: 1%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size:11px;
+	font-weight: bold;
+}
+
+.what {
+	position: absolute;
+	bottom: 67%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size:18px;
+}
+
+.bsend {
+    position: absolute;
+	bottom: 60%;
+	left: 40%;
+	transform: translateX(-50%);
+	background-color: #007bff;
+    border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+
+
+.bget {
+    position: absolute;
+	bottom: 60%;
+	left: 60%;
+	transform: translateX(-50%);
+	background-color: #007bff;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+    display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.speedtest {
+    position: absolute;
+	bottom: 20%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size:14px;
+	cursor: pointer;
+	padding: 12px;
+	border-radius: 1px;
+	background: #C0C0C0;
+}
+
+
+/*send page*/
+
+.tsend {
+		position: absolute;
+		bottom: 97%;
+		left: 50%;
+		transform: translateX(-50%);
+		font-size:14px;
+}
+
+.goback {
+	position: absolute;
+	bottom: 92%;
+	left: 5%;
+	transform: translateX(-50%);
+	background-color: #AEB1DE;
+	border: none;
+	color: brown;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 80px;
+}
+
+
+
+<!--get_page-->
+
+
+
