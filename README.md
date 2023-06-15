@@ -1,1 +1,1 @@
-# mikhailskibitskiy.kursovayarabota.gitflic.io
+# mikhailskibitskiy.kursovayarabota.github.io
