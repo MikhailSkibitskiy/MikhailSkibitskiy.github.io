@@ -1,1 +1,1 @@
-# mikhailskibitskiy.kursovayarabota.github.io
+MikhailSkibitskiy.github.io
