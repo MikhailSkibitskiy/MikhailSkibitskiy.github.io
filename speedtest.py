@@ -2,7 +2,8 @@ import math
 import speedtest
 
 wifi = speedtest.Speedtest()
-print("speed")
 
 down_speed = wifi.download()
-print(down_speed)
+print("Speed of downloading", down_speed)
+up_speed = wifi.upload()
+print("Speed of uploading", up_speed)
